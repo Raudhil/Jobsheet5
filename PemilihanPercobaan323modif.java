@@ -20,8 +20,7 @@ public class PemilihanPercobaan323{
         case '+':
             hasil = angka1 + angka2;
             System.out.println(angka1 + " + " + angka2 + " = " + hasil);
-            break;
-            case '-':
+        case '-':
             hasil = angka1 - angka2;
             System.out.println(angka1 + " - " + angka2 + " = " + hasil);
             break;

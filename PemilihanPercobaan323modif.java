@@ -20,7 +20,12 @@ public class PemilihanPercobaan323{
         case '+':
             hasil = angka1 + angka2;
             System.out.println(angka1 + " + " + angka2 + " = " + hasil);
+<<<<<<< HEAD
         case '-':
+=======
+            break;
+            case '-':
+>>>>>>> 202dbe6a6113dca312c378c336f48c36fc5a837a
             hasil = angka1 - angka2;
             System.out.println(angka1 + " - " + angka2 + " = " + hasil);
             break;
@@ -35,4 +40,8 @@ public class PemilihanPercobaan323{
     }
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 202dbe6a6113dca312c378c336f48c36fc5a837a
